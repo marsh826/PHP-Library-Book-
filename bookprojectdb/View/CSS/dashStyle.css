@@ -1,0 +1,41 @@
+.wrapper{
+    max-width: 900px;
+    margin: 20 auto;
+    min-height: calc(116.01vh - 99.51px - 260px);
+ }
+ 
+ .dash{
+   max-width: 900px;
+   max-height: 120px;
+   background-color: honeydew;
+   padding: 10px; 
+   text-align: center;
+ }
+    
+ body{
+    background-color: gray;
+ }
+ 
+ .header{
+   max-width: 1000;
+   margin: 20 auto;
+   background-color: red;
+   padding: 10px;
+   color: white;
+}
+
+.footer{
+   max-width: 1000;
+   margin: 0 auto;
+   text-align: center;
+   background-color: red;
+   padding: 10px;
+   color: white;
+   font-size: xx-small;
+}
+
+.divide{
+    width:10px;
+    height:auto;
+    display:inline-block;
+}

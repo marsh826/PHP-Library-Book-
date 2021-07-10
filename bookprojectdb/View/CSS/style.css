@@ -1,0 +1,72 @@
+/*CSS style sheet*/
+
+.wrapper{
+   max-width: 600px;
+   margin: 20 auto;
+   min-height: calc(97.59vh - 99.88px - 140px);
+}
+
+body{
+   background-color: gray;
+}
+
+.login{
+   max-width: 550px;
+   max-height: 80px;
+   background-color: honeydew;
+   padding: 10px; 
+
+}
+
+.header{
+   max-width: 1000;
+   margin: 20 auto;
+   background-color: red;
+   padding: 10px;
+   color: white;
+}
+
+.footer{
+   max-width: 1000;
+   margin: 0 auto;
+   text-align: center;
+   background-color: red;
+   padding: 10px;
+   color: white;
+   font-size: xx-small;
+}
+
+img {
+   max-width: 100px;
+   max-height: 200px ;
+ }
+
+.view {
+   max-width: 550px;
+   max-height: 500px;
+   background-color: honeydew;
+   padding: 10px;
+}
+
+.update{
+   max-width: 550px;
+   max-height: 100px;
+   background-color: honeydew;
+   padding: 10px; 
+}
+
+.input{
+   max-width: 40%;
+   max-height: 5%;
+   background-color: honeydew;
+   padding: 10px; 
+}
+
+.return-to-dash{
+   margin-left: 1100px;
+   position: relative; top: -80px;
+}
+
+.return-after-reg{
+   position: relative; top: -80px; bottom: 80px;
+}
